@@ -1,6 +1,6 @@
 <?php
 
-namespace RybYayheni\Speechgen;
+namespace Yayheni\Speechgen;
 
 /**
  * Class for connection with api https://speechgen.io/en/node/api/

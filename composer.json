@@ -1,15 +1,15 @@
 {
-    "name": "rybachenka.yayheni/speechgen",
+    "name": "yauheni/speechgen",
     "description": "Connecting with speechgenAPi",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "RybYayheniy\\Speechgen\\": "src/"
+            "Yayheni\\Speechgen\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "yayheniy",
+            "name": "Yayheni",
             "email": "zhenya091992@gmail.com"
         }
     ],
