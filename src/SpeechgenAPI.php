@@ -1,8 +1,6 @@
 <?php
 
-namespace Yayheniy\Speechgen;
-
-use GuzzleHttp\Client;
+namespace RybYayheni\Speechgen;
 
 /**
  * Class for connection with api https://speechgen.io/en/node/api/

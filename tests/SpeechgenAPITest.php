@@ -5,7 +5,7 @@ namespace tests;
 use Dotenv\Dotenv;
 use PHPUnit\Framework\Assert;
 use PHPUnit\Framework\TestCase;
-use Yayheniy\Speechgen\SpeechgenAPI;
+use RybYayheni\Speechgen\SpeechgenAPI;
 
 class SpeechgenAPITest extends TestCase
 {
